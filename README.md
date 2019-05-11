@@ -4,4 +4,5 @@
 - Aula 1  -> Manipulação de TextView / Button / Random [X]
 - Aula 2a -> Manipulação de ImageView e Random - Gerador de Frases [X]
 - Aula 2b -> Manipulação de ImageView - Jokempô [X]
+- Aula 3  -> Manipulação de Checkbox e RadioGroup/RadioButton - Pedido de Pizza [X]
 ---
