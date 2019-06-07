@@ -9,6 +9,7 @@
 - Aula 4  -> Manipulação de EditText e TextInputLayour - Álcool ou Gasolina [X]
 - Aula 5  -> Manipulação de Dialogs e Toast - Exercício sobre as estruturas [X]
 - Aula 5b -> Manipulação de SeekBar -> Calculadora de Gorjetas [X]
+- Aula 6  -> Introdução SQLite  -> CRUD de Universidade [X]
 
 ## Todo list
 
